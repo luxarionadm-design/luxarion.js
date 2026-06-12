@@ -1,0 +1,6 @@
+{
+  "name": "Luxarion Engine Studio",
+  "description": "An interactive WebGL/WebGPU developer playground, real-time TSL shader builder, compute particle simulation, spatial audio studio, and AI helper dashboard for Luxarion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
